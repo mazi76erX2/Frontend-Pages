@@ -1,2 +1,2 @@
 # Frontend-Pages
-Random pages that I created practicing my frontend work
+Random pages that I created practising my frontend work
